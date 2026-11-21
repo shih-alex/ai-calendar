@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ai-calendar-web-v3';
+const CACHE_NAME = 'ai-calendar-web-v4';
 const CORE_ASSETS = ['./', './index.html', './manifest.webmanifest'];
 
 self.addEventListener('install', (event) => {
